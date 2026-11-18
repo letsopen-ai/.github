@@ -12,3 +12,5 @@
 **tinystats:** All your Mac's stats. Tiny footprint.
 
 **teleframe:** Native remote access to your Mac; a relay may carry the connection.
+
+**tinyagentaccess:** A local-first Rust MCP server for AI agents, with no AWS dependency.
